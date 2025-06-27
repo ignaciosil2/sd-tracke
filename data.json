@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "Agente": "Soldati Conecta",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": [
+        [
+          "2025-06-27",
+          null
+        ],
+        [
+          "2025-06-27",
+          "2025-06-27"
+        ]
+      ]
+    },
+    {
+      "Agente": "Ana \u00c1lvarez Ugarte",
+      "SD": 2,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Ana Hilbert",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Carlos Arostegui",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Beatriz Perez Tritencio",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Ingrid Arostegui",
+      "SD": 4,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Claudia Surin",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Florencia Victory",
+      "SD": 13,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Florencia Ezcurra",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Jer\u00f3nimo Gallardo",
+      "SD": 4,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Noel Verger",
+      "SD": 2,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Gisella Maria Balderiote",
+      "SD": 2,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Lucia O\u2019connor",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Luis Silveira",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Marcia Blanco",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Maria Fernanda Hidalgo",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Maria Noel Lorenzo",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Natalia Silvina Macchia",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Rafael Levy",
+      "SD": 2,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Pedro Pinasco",
+      "SD": 8,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Pedro Bustillo",
+      "SD": 15,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Gustavo Tossetti",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Alejandro Milhas",
+      "SD": 80,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Administraci\u00f3n central Conecta",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Sofia Gravenhorst",
+      "SD": 21,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Mariano Ignacio del Yerro",
+      "SD": 3,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Carmen Mar\u00eda Sturla",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Agustina Fernandez Gradaille",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Fernando Gago",
+      "SD": 8,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Loli Tarelli",
+      "SD": 2,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Javier Miguens",
+      "SD": 3,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "GONZALO ESTERKIN",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Walter Jacinto Coronel",
+      "SD": 4,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Virginia Fernandez",
+      "SD": 6,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Facundo Sagasta",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Bruno Levy",
+      "SD": 14,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Santiago Capacete",
+      "SD": 3,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Maria Ximena Angelillo",
+      "SD": 22,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Mat\u00edas Laplacette",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Sebasti\u00e1n Ortiz",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Vilma Isabel Aldanondo",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Cristian Javier Acosta",
+      "SD": 4,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Agustina Crnich",
+      "SD": 20,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Luciana Bottini",
+      "SD": 11,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Marketing",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Yesica Cabrera",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Nicolas Milhas",
+      "SD": 9,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Daniel Cabrera",
+      "SD": 1,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Estanislao Julianes",
+      "SD": 10,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Fabian Pedrazzini",
+      "SD": 3,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Mateo Jose Vallega",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Carolina Landra",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Fabiana Rodriguez",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    },
+    {
+      "Agente": "Juan Maria Basombrio",
+      "SD": 0,
+      "Monto": 0.0,
+      "Historial": []
+    }
+  ]
+}
