@@ -2,12 +2,12 @@
   "data": [
     {
       "Agente": "Soldati Conecta",
-      "SD": 1,
+      "SD": 0,
       "Monto": 0.0,
       "Historial": [
         [
           "2025-06-27",
-          null
+          "2025-06-27"
         ],
         [
           "2025-06-27",
